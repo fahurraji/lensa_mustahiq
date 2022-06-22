@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805182302071",
+    "firebase_url": "https://mustahiq-app.firebaseio.com",
+    "project_id": "mustahiq-app",
+    "storage_bucket": "mustahiq-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805182302071:android:86a75ce163a335653c6372",
+        "android_client_info": {
+          "package_name": "com.example.mustahiq_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805182302071-5pddb88e4p46b2lth2vn366qit20aa90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7IIso2_RUFSdLqD00ESKex9jtQ29INks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805182302071-5pddb88e4p46b2lth2vn366qit20aa90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
